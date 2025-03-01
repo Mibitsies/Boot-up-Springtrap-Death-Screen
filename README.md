@@ -1,4 +1,4 @@
-ee# Boot-up-Springtrap-Death-Screen
+# Boot-up-Springtrap-Death-Screen
 
 
 In this project your enable to scare your relatives or friends with a death screen upon booting up the computer.
