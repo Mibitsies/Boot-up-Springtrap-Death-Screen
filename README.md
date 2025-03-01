@@ -27,7 +27,7 @@ When your done hit save or "Ctrl + s".
 
 Press "Windows + R" on your computer and type "shell:startup" and press ENTER.
 
-Drag the springtrap.bat file to the autosave folder.
+Drag the springtrap.bat file to the Autostart folder.
 
 
 And now your finished! you can now go ahead and prank your relatives or friends when they boot up the computer!
